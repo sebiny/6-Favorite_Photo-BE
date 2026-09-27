@@ -2,8 +2,6 @@
 
 ### What is your favorite? Find it on "Favorite Photo"!
 
-![image](https://github.com/user-attachments/assets/c6df717d-058e-4e51-bf95-4188845eb6a7)
-
 ### [🖼️ Visit Favorite Photo](https://favorite-photo.vercel.app)
 
 ### [📋 Team Notion](https://www.notion.so/1-1e4b498dbd8180189b57e1cf348173b8?source=copy_link)
